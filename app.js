@@ -1,3 +1,4 @@
+/* A simple Web Server Application */
 var express = require('express');
 var app = express();
 
